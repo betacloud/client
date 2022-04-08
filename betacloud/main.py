@@ -9,7 +9,7 @@ class BetacloudApp(App):
     def __init__(self):
         super(BetacloudApp, self).__init__(
             description='Betacloud client interface',
-            version='0.0.1',
+            version='0.0.2',
             command_manager=CommandManager('osism.commands'),
             deferred_help=True,
         )
