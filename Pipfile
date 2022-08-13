@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 cliff = "==3.10.1"
-openapi-python-client = "==0.11.4"
+openapi-python-client = "==0.11.5"
 
 [dev-packages]
 
