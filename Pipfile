@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-cliff = "==3.10.1"
+cliff = "==4.6.0"
 openapi-python-client = "==0.11.5"
 
 [dev-packages]
