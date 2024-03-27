@@ -1,2 +1,2 @@
 cliff==3.10.1
-openapi-python-client==0.11.5
+openapi-python-client==0.19.1
